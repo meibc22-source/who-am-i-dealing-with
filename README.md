@@ -18,6 +18,6 @@ An intelligent Model Context Protocol (MCP) server that creates comprehensive pe
 
 ## 🚀 Quick Demo
 
-**Try the live demo:** [Your Gradio URL here]
+**Try the live demo:** https://b613a061066be71203.gradio.live
 
 ## 🏗️ How It Works
